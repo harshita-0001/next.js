@@ -1,0 +1,10 @@
+.input{
+    display: block;
+    margin: 5px auto;
+    padding: 10px 40px;
+}
+.btn{
+    margin: 5px auto;
+    padding: 10px 40px;
+    background-color: aliceblue;
+}
